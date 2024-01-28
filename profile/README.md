@@ -1,10 +1,10 @@
 <img align="center" src="https://github.com/srcatarr/.github/blob/main/arr_banner.png" />
 <h1 align="center">Hi 👋, We are [array]</h1>
-<h3 align="center">the Turkish indie developer team from Turkiye (Syria it's a joke)</h3>
+<h3 align="center">the Turkish indie developer team from Turkia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srcatarr&label=Profile%20views&color=0e75b6&style=flat" alt="srcatarr" /> </p>
 
-- 🔭 We are currently working on [Code Name UnViewed](https://github.com/srcatarr/UnViewed)
+- 🔭 We are currently working on [DisP](https://github.com/srcatarr/disp)
 
 <h3 align="left">Connect with we:</h3> Communicating with smoke
 <p align="left">
